@@ -1,0 +1,37 @@
+{
+  "airline": "Air India",
+  "alliance": "Star Alliance",
+  "class": "Economy",
+  "passenger": {
+    "lastName": "Das",
+    "firstName": "Jyoti Kapur",
+    "title": "Ms"
+  },
+  "flight": {
+    "number": "AI2993",
+    "departure": {
+      "time": "12:45",
+      "date": "22 Feb 2025",
+      "terminal": "Terminal 3",
+      "airport": "DEL",
+      "city": "Delhi"
+    },
+    "arrival": {
+      "time": "15:00",
+      "date": "22 Feb 2025",
+      "terminal": "Terminal 2",
+      "airport": "BOM",
+      "city": "Mumbai"
+    },
+    "eticketNumber": "098904336725801"
+  },
+  "boarding": {
+    "time": "11:45",
+    "reference": "JO2NUY",
+    "sequence": "13",
+    "seat": "29A",
+    "gate": "B",
+    "zone": "B",
+    "status": "completed"
+  }
+}

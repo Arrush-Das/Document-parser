@@ -1,0 +1,82 @@
+{
+  "examination_board": "COUNCIL FOR THE INDIAN SCHOOL CERTIFICATE EXAMINATIONS, NEW DELHI",
+  "examination_name": "INDIAN CERTIFICATE OF SECONDARY EDUCATION (CLASS - X)",
+  "examination_year": "2019",
+  "candidate_id": "1958",
+  "unique_id": "6936526",
+  "school_name": "SMT.R.S.B. ARYA VIDYA MANDIR, MUMBAI",
+  "candidate_name": "DAS ARRUSH CHIRANTAN",
+  "parent_names": [
+    {
+      "father_name": "CHIRANTAN DAS",
+      "mother_name": "JYOTI KAPUR DAS"
+    }
+  ],
+  "subjects": [
+    {
+      "name": "ENGLISH",
+      "marks": {
+        "total": "92",
+        "english_language": "90",
+        "literature_in_english": "93"
+      },
+      "percentage": "92"
+    },
+    {
+      "name": "HINDI",
+      "marks": "86",
+      "percentage": "86"
+    },
+    {
+      "name": "HISTORY, CIVICS & GEOGRAPHY",
+      "marks": "91",
+      "percentage": "91",
+      "sub_subjects": [
+        {
+          "name": "HISTORY & CIVICS",
+          "marks": "90"
+        },
+        {
+          "name": "GEOGRAPHY",
+          "marks": "92"
+        }
+      ]
+    },
+    {
+      "name": "MATHEMATICS",
+      "marks": "89",
+      "percentage": "89"
+    },
+    {
+      "name": "SCIENCE",
+      "marks": "90",
+      "percentage": "90",
+      "sub_subjects": [
+        {
+          "name": "PHYSICS",
+          "marks": "92"
+        },
+        {
+          "name": "CHEMISTRY",
+          "marks": "91"
+        },
+        {
+          "name": "BIOLOGY",
+          "marks": "88"
+        }
+      ]
+    },
+    {
+      "name": "COMMERCIAL APPLICATIONS",
+      "marks": "97",
+      "percentage": "97"
+    },
+    {
+      "name": "SUPW AND COMMUNITY SERVICE",
+      "grade": "B"
+    }
+  ],
+  "date_of_birth": "Eighteenth July Two Thousand Three",
+  "result": "PASS CERTIFICATE AWARDED",
+  "result_declaration_date": "07 . 05.2019"
+}

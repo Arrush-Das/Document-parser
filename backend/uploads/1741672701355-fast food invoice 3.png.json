@@ -1,0 +1,23 @@
+{
+  "restaurant_name": "HIBACHI CHINESE BUFFET",
+  "address": {
+    "street_address": "90890 CHINA TOWN",
+    "city": "OLD BLANK HILL",
+    "state": "SC",
+    "zip_code": "23943"
+  },
+  "phone_number": "+1 888-888-8888",
+  "transaction_date": "01/01/2020",
+  "transaction_time": "12:00 AM",
+  "transaction_details": {
+    "transaction_id": "1160527620751",
+    "merchant_category_code": "30599092841351",
+    "payment_method": "8888"
+  },
+  "amounts": {
+    "subtotal": "$45.00",
+    "tax": "$3.60",
+    "total": "$48.60"
+  },
+  "message": "PLEASE VISIT US AGAINnTHANK YOU"
+}

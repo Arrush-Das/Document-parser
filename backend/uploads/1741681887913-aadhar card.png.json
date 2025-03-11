@@ -1,0 +1,23 @@
+{
+  "Government_of_India": {
+    "Unique_Identification_Authority_of_India": {
+      "AADHAAR": {
+        "card_holder_name": "अरुष चिरंतन दास",
+        "name_in_english": "Arrush Chirantan Das",
+        "aadhaar_number": "7937 7405 3190",
+        "vid": "9139 5524 9577 4167",
+        "dob": "18/07/2003",
+        "gender": "पुरुष",
+        "gender_in_english": "MALE",
+        "address": {
+          "line1": "बी-601, आझाद लोखंडवाला, नगर, मुंबई, बँक समोर, वेस्ट, मुंबई,",
+          "line2": "महाराष्ट्र - 400053",
+          "po": "Azad Nagar",
+          "dist": "Mumbai"
+        },
+        "expiry_date": "17/01/2025",
+        "relation": "as S/O: Lokhandwala, Chirantan Opp Das,"
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "Council": "COUNCIL FOR THE INDIAN SCHOOL CERTIFICATE EXAMINATIONS, NEW DELHI",
+  "Examination": "INDIAN CERTIFICATE OF SECONDARY EDUCATION (CLASS - X)",
+  "Year": 2019,
+  "UniqueID": "1958",
+  "CandidateID": "TF 30069315",
+  "RegistrationID": "1195693/011",
+  "School": "SMT.R.S.B. ARYA VIDYA MANDIR, MUMBAI",
+  "Name": "DAS ARRUSH CHIRANTAN",
+  "FatherName": "CHIRANTAN DAS",
+  "MotherName": "JYOTI KAPUR DAS",
+  "Marks": {
+    "English": {
+      "MarksObtained": 92,
+      "Percentage": "NINE TWO"
+    },
+    "Hindi": {
+      "MarksObtained": 86,
+      "Percentage": "EIGHT SIX"
+    },
+    "History, Civics & Geography": {
+      "MarksObtained": 91,
+      "Percentage": "NINE ONE"
+    },
+    "Mathematics": {
+      "MarksObtained": 89,
+      "Percentage": "EIGHT NINE"
+    },
+    "Science": {
+      "MarksObtained": 90,
+      "Percentage": "NINE ZERO"
+    },
+    "Commercial Applications": {
+      "MarksObtained": 97,
+      "Percentage": "NINE SEVEN"
+    },
+    "SUPW AND COMMUNITY SERVICE": {
+      "Grade": "B"
+    }
+  },
+  "DOB": "Eighteenth July Two Thousand Three",
+  "Result": "PASS",
+  "ResultDeclarationDate": "07 . 05.2019"
+}

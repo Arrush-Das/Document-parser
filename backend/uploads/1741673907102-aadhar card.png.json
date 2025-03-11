@@ -1,0 +1,16 @@
+{
+  "document_type": "Aadhaar card",
+  "name": "Arrush Chirantan Das",
+  "dob": "18/07/2003",
+  "gender": "MALE",
+  "address": {
+    "line1": "B-601, Bank, Greenfields Andheri , West, Mumbai",
+    "line2": "Lokhandwala, Chirantan Opp Das",
+    "post_office": "Azad Nagar",
+    "district": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400053"
+  },
+  "aadhaar_number": "7937 7405 3190",
+  "vid": "9139 5524 9577 4167"
+}

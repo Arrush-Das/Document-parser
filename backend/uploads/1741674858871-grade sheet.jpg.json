@@ -1,0 +1,62 @@
+{
+  "exam_board": "COUNCIL FOR THE INDIAN SCHOOL CERTIFICATE EXAMINATIONS, NEW DELHI",
+  "exam_name": "INDIAN CERTIFICATE OF SECONDARY EDUCATION (CLASS - X)",
+  "year": 2019,
+  "roll_number": "1958",
+  "unique_id": "6936526",
+  "school_name": "SMT.R.S.B. ARYA VIDYA MANDIR, MUMBAI",
+  "student_name": "DAS ARRUSH CHIRANTAN",
+  "father_name": "CHIRANTAN DAS",
+  "mother_name": "JYOTI KAPUR DAS",
+  "subjects": [
+    {
+      "name": "ENGLISH",
+      "internal_mark": "IM",
+      "class_assessment": "CA",
+      "total_marks": 92,
+      "percentage": "NINE TWO"
+    },
+    {
+      "name": "HINDI",
+      "internal_mark": null,
+      "class_assessment": null,
+      "total_marks": 86,
+      "percentage": "EIGHT SIX"
+    },
+    {
+      "name": "HISTORY, CIVICS & GEOGRAPHY",
+      "internal_mark": null,
+      "class_assessment": null,
+      "total_marks": 91,
+      "percentage": "NINE ONE"
+    },
+    {
+      "name": "MATHEMATICS",
+      "internal_mark": null,
+      "class_assessment": null,
+      "total_marks": 89,
+      "percentage": "EIGHT NINE"
+    },
+    {
+      "name": "SCIENCE",
+      "internal_mark": null,
+      "class_assessment": null,
+      "total_marks": 90,
+      "percentage": "NINE ZERO"
+    },
+    {
+      "name": "COMMERCIAL APPLICATIONS",
+      "internal_mark": null,
+      "class_assessment": null,
+      "total_marks": 97,
+      "percentage": "NINE SEVEN"
+    }
+  ],
+  "internal_assessment": {
+    "subject": "SUPW AND COMMUNITY SERVICE",
+    "grade": "B"
+  },
+  "date_of_birth": "Eighteenth July Two Thousand Three",
+  "result": "PASS CERTIFICATE AWARDED",
+  "result_declaration_date": "07 . 05.2019"
+}

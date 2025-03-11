@@ -1,0 +1,58 @@
+{
+  "invoice": {
+    "invoice_number": "SG- 7473",
+    "vendor": {
+      "name": "CAMPUS EXPRESS",
+      "address": "India"
+    },
+    "bill_to": {
+      "name": "Jyoti kapur Das",
+      "address": "B 601 Greenfields lokhandwala, Mumbai, 400053 India"
+    },
+    "invoice_date": "Dec 08, 2024",
+    "due_date": "Dec 09, 2024",
+    "place_of_supply": "",
+    "items": [
+      {
+        "item_number": 1,
+        "description": "Courier Service (7 Box's)",
+        "hsn_sac": "86",
+        "weight": "32.00",
+        "rate": "247.68",
+        "sgst": "247.68",
+        "cgst": "0.00",
+        "cess": "2752.00"
+      },
+      {
+        "item_number": 2,
+        "description": "Docket Charge",
+        "hsn_sac": "1",
+        "weight": "300.00",
+        "rate": "27.00",
+        "sgst": "27.00",
+        "cgst": "0.00",
+        "cess": "300.00"
+      },
+      {
+        "item_number": 3,
+        "description": "Bubble Wrapping Charge",
+        "hsn_sac": "1",
+        "weight": "200.00",
+        "rate": "18.00",
+        "sgst": "18.00",
+        "cgst": "0.00",
+        "cess": "200.00"
+      }
+    ],
+    "sub_total": "3252.00",
+    "sgst": "292.68",
+    "cgst": "292.68",
+    "total": "Rs.3,837.36",
+    "tracking_details": {
+      "irn_number": "269606280",
+      "tracking_url": "https://www.delhivery.com/",
+      "instructions": "Please select the fourth option (LTL Shipment)"
+    },
+    "terms_and_conditions": "Please gpay the amount on 9945588363 and send a screenshot of the payment."
+  }
+}

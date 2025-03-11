@@ -1,0 +1,26 @@
+{
+  "Income Tax Department": {
+    "government": "Govt of India",
+    "contact": {
+      "tel": "4. 341. 614. 992/8"
+    },
+    "Permanent Account Number Card": {
+      "RAL": "/",
+      "number": "HDTPD3472E"
+    },
+    "Income Tax PAN Services Data, NSDL": {
+      "address": {
+        "flat": "No. 341",
+        "street": "Maseri Survey Sterling No. 99778",
+        "area": "Model Colony, Near Deep Bungalow Chowks",
+        "city": "Pune",
+        "pin": "411 016"
+      }
+    }
+  },
+  "Individual": {
+    "name": "Arush Chirantan Das",
+    "PAN": "CHIRANTAN DAS",
+    "date of birth": "18/07/2003"
+  }
+}

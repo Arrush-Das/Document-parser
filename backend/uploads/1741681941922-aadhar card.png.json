@@ -1,0 +1,29 @@
+{
+  "Government": {
+    "Name": "Government of India",
+    "Department": "Unique Identification Authority of India",
+    "Program": "AADHAAR"
+  },
+  "AadhaarHolder": {
+    "Name": "Arrush Chirantan Das",
+    "DateOfBirth": "18/07/2003",
+    "Gender": "MALE",
+    "Address": {
+      "FlatNumber": "HDFC B-601",
+      "BuildingName": "Lokhandwala",
+      "Area": "Greenfields Andheri West",
+      "City": "Mumbai",
+      "State": "Maharashtra",
+      "Pincode": "400053"
+    }
+  },
+  "AadhaarDetails": {
+    "AadhaarNumber": "793774053190",
+    "VID": "9139552495774167"
+  },
+  "Note": "Aadhaar is proof of identity, not of citizenship or date of birth. It should be used with verification (online authentication, or scanning of QR code / offline XML).",
+  "Contact": {
+    "Email": "help@uidai.gov.in",
+    "Website": "www.uidai.gov.in"
+  }
+}

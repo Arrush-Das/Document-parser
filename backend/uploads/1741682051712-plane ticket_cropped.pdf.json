@@ -1,0 +1,33 @@
+{
+  "airline": "Air India",
+  "alliance": "Star Alliance",
+  "class": "Economy",
+  "passenger": {
+    "lastName": "Das",
+    "firstName": "Chirantan Chittaranjan",
+    "title": "Mr"
+  },
+  "flight": {
+    "flightNumber": "AI0425",
+    "departure": {
+      "time": "07:10",
+      "date": "24 Jan 2025",
+      "terminal": "Terminal 3",
+      "from": "DELHI"
+    },
+    "arrival": {
+      "time": "08:05",
+      "date": "24 Jan 2025",
+      "to": "DEHRA DUN"
+    }
+  },
+  "boarding": {
+    "bookingRef": "6QTFJQ",
+    "seq": 109,
+    "seat": "19D",
+    "gate": "",
+    "zone": "C",
+    "class": "Y",
+    "eTicketNo": "098342600925801"
+  }
+}

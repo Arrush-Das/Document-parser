@@ -1,0 +1,93 @@
+{
+  "examination_board": "COUNCIL FOR THE INDIAN SCHOOL CERTIFICATE EXAMINATIONS, NEW DELHI",
+  "examination_name": "INDIAN CERTIFICATE OF SECONDARY EDUCATION (CLASS - X)",
+  "year": 2019,
+  "roll_number": "1958",
+  "student_id": "TF 30069315",
+  "center_number": "2018",
+  "candidate_number": "1195693/011",
+  "school_name": "SMT.R.S.B. ARYA VIDYA MANDIR, MUMBAI",
+  "student_unique_id": "6936526",
+  "student_name": "DAS ARRUSH CHIRANTAN",
+  "father_name": "CHIRANTAN DAS",
+  "mother_name": "JYOTI KAPUR DAS",
+  "subjects": [
+    {
+      "name": "ENGLISH",
+      "marks_obtained": 92,
+      "max_marks": 100,
+      "percentage": "NINE TWO",
+      "sub_topics": [
+        {
+          "name": "ENGLISH LANGUAGE",
+          "marks_obtained": 90
+        },
+        {
+          "name": "LITERATURE IN ENGLISH",
+          "marks_obtained": 93
+        }
+      ]
+    },
+    {
+      "name": "HINDI",
+      "marks_obtained": 86,
+      "max_marks": 100,
+      "percentage": "EIGHT SIX"
+    },
+    {
+      "name": "HISTORY, CIVICS & GEOGRAPHY",
+      "marks_obtained": 91,
+      "max_marks": 100,
+      "percentage": "NINE ONE",
+      "sub_topics": [
+        {
+          "name": "HISTORY & CIVICS",
+          "marks_obtained": 90
+        },
+        {
+          "name": "GEOGRAPHY",
+          "marks_obtained": 92
+        }
+      ]
+    },
+    {
+      "name": "MATHEMATICS",
+      "marks_obtained": 89,
+      "max_marks": 100,
+      "percentage": "EIGHT NINE"
+    },
+    {
+      "name": "SCIENCE",
+      "marks_obtained": 90,
+      "max_marks": 100,
+      "percentage": "NINE ZERO",
+      "sub_topics": [
+        {
+          "name": "PHYSICS",
+          "marks_obtained": 92
+        },
+        {
+          "name": "CHEMISTRY",
+          "marks_obtained": 91
+        },
+        {
+          "name": "BIOLOGY",
+          "marks_obtained": 88
+        }
+      ]
+    },
+    {
+      "name": "COMMERCIAL APPLICATIONS",
+      "marks_obtained": 97,
+      "max_marks": 100,
+      "percentage": "NINE SEVEN"
+    },
+    {
+      "name": "SUPW AND COMMUNITY SERVICE",
+      "grade": "B"
+    }
+  ],
+  "date_of_birth": "Eighteenth July Two Thousand Three",
+  "result": "PASS",
+  "result_declaration_date": "07 . 05.2019"
+}

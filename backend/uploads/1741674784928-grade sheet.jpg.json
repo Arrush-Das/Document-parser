@@ -1,0 +1,88 @@
+{
+  "examination_name": "INDIAN CERTIFICATE OF SECONDARY EDUCATION (CLASS - X)",
+  "year": 2019,
+  "candidate_unique_id": 6936526,
+  "candidate_name": "DAS ARRUSH CHIRANTAN",
+  "school_name": "SMT.R.S.B. ARYA VIDYA MANDIR, MUMBAI",
+  "father_name": "CHIRANTAN DAS",
+  "mother_name": "JYOTI KAPUR DAS",
+  "subjects": [
+    {
+      "name": "ENGLISH",
+      "max_marks": 100,
+      "marks_obtained": 92,
+      "percentage": 92,
+      "sub_components": [
+        {
+          "name": "ENGLISH LANGUAGE",
+          "marks_obtained": 90
+        },
+        {
+          "name": "LITERATURE IN ENGLISH",
+          "marks_obtained": 93
+        }
+      ]
+    },
+    {
+      "name": "HINDI",
+      "max_marks": 100,
+      "marks_obtained": 86,
+      "percentage": 86
+    },
+    {
+      "name": "HISTORY, CIVICS & GEOGRAPHY",
+      "max_marks": 100,
+      "marks_obtained": 91,
+      "percentage": 91,
+      "sub_components": [
+        {
+          "name": "HISTORY & CIVICS",
+          "marks_obtained": 90
+        },
+        {
+          "name": "GEOGRAPHY",
+          "marks_obtained": 92
+        }
+      ]
+    },
+    {
+      "name": "MATHEMATICS",
+      "max_marks": 100,
+      "marks_obtained": 89,
+      "percentage": 89
+    },
+    {
+      "name": "SCIENCE",
+      "max_marks": 100,
+      "marks_obtained": 90,
+      "percentage": 90,
+      "sub_components": [
+        {
+          "name": "PHYSICS",
+          "marks_obtained": 92
+        },
+        {
+          "name": "CHEMISTRY",
+          "marks_obtained": 91
+        },
+        {
+          "name": "BIOLOGY",
+          "marks_obtained": 88
+        }
+      ]
+    },
+    {
+      "name": "COMMERCIAL APPLICATIONS",
+      "max_marks": 100,
+      "marks_obtained": 97,
+      "percentage": 97
+    }
+  ],
+  "internal_assessment": {
+    "name": "SUPW AND COMMUNITY SERVICE",
+    "grade": "B"
+  },
+  "date_of_birth": "18.07.2003",
+  "result": "PASS",
+  "result_declared_on": "07 . 05.2019"
+}
